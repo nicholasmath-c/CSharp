@@ -1,0 +1,7 @@
+C:\Users\manager\source\repos\TiposDeDados\TiposDeDados\bin\Debug\TiposDeDados.exe.config
+C:\Users\manager\source\repos\TiposDeDados\TiposDeDados\bin\Debug\TiposDeDados.exe
+C:\Users\manager\source\repos\TiposDeDados\TiposDeDados\bin\Debug\TiposDeDados.pdb
+C:\Users\manager\source\repos\TiposDeDados\TiposDeDados\obj\Debug\TiposDeDados.csprojAssemblyReference.cache
+C:\Users\manager\source\repos\TiposDeDados\TiposDeDados\obj\Debug\TiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\manager\source\repos\TiposDeDados\TiposDeDados\obj\Debug\TiposDeDados.exe
+C:\Users\manager\source\repos\TiposDeDados\TiposDeDados\obj\Debug\TiposDeDados.pdb

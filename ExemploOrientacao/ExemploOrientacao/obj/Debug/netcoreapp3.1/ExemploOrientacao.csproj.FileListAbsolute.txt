@@ -1,0 +1,14 @@
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.csproj.AssemblyReference.cache
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.AssemblyInfoInputs.cache
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.AssemblyInfo.cs
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\bin\Debug\netcoreapp3.1\ExemploOrientacao.exe
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\bin\Debug\netcoreapp3.1\ExemploOrientacao.deps.json
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\bin\Debug\netcoreapp3.1\ExemploOrientacao.runtimeconfig.json
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\bin\Debug\netcoreapp3.1\ExemploOrientacao.runtimeconfig.dev.json
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\bin\Debug\netcoreapp3.1\ExemploOrientacao.dll
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\bin\Debug\netcoreapp3.1\ExemploOrientacao.pdb
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.dll
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.pdb
+C:\Users\Etec\source\repos\ExemploOrientacao\ExemploOrientacao\obj\Debug\netcoreapp3.1\ExemploOrientacao.genruntimeconfig.cache

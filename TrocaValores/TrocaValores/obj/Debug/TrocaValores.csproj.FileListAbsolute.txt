@@ -1,0 +1,5 @@
+c:\users\etecmorato\documents\visual studio 2013\Projects\TrocaValores\TrocaValores\bin\Debug\TrocaValores.exe.config
+c:\users\etecmorato\documents\visual studio 2013\Projects\TrocaValores\TrocaValores\bin\Debug\TrocaValores.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\TrocaValores\TrocaValores\bin\Debug\TrocaValores.pdb
+c:\users\etecmorato\documents\visual studio 2013\Projects\TrocaValores\TrocaValores\obj\Debug\TrocaValores.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\TrocaValores\TrocaValores\obj\Debug\TrocaValores.pdb

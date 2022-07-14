@@ -1,0 +1,14 @@
+C:\Users\manager\source\repos\paraladaca\paraladaca\obj\Debug\paraladaca.csprojAssemblyReference.cache
+C:\Users\manager\source\repos\paraladaca\paraladaca\obj\Debug\paraladaca.csproj.CoreCompileInputs.cache
+C:\Users\manager\source\repos\paraladaca\paraladaca\bin\Debug\paraladaca.exe.config
+C:\Users\manager\source\repos\paraladaca\paraladaca\bin\Debug\paraladaca.exe
+C:\Users\manager\source\repos\paraladaca\paraladaca\bin\Debug\paraladaca.pdb
+C:\Users\manager\source\repos\paraladaca\paraladaca\obj\Debug\paraladaca.exe
+C:\Users\manager\source\repos\paraladaca\paraladaca\obj\Debug\paraladaca.pdb
+C:\Users\Etec\Desktop\paraladaca\paraladaca\bin\Debug\paraladaca.exe.config
+C:\Users\Etec\Desktop\paraladaca\paraladaca\bin\Debug\paraladaca.exe
+C:\Users\Etec\Desktop\paraladaca\paraladaca\bin\Debug\paraladaca.pdb
+C:\Users\Etec\Desktop\paraladaca\paraladaca\obj\Debug\paraladaca.csproj.AssemblyReference.cache
+C:\Users\Etec\Desktop\paraladaca\paraladaca\obj\Debug\paraladaca.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\paraladaca\paraladaca\obj\Debug\paraladaca.exe
+C:\Users\Etec\Desktop\paraladaca\paraladaca\obj\Debug\paraladaca.pdb

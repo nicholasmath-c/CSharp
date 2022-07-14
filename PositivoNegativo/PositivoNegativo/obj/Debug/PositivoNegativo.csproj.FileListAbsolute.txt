@@ -1,0 +1,6 @@
+C:\Users\manager\source\repos\PositivoNegativo\PositivoNegativo\bin\Debug\PositivoNegativo.exe.config
+C:\Users\manager\source\repos\PositivoNegativo\PositivoNegativo\bin\Debug\PositivoNegativo.exe
+C:\Users\manager\source\repos\PositivoNegativo\PositivoNegativo\bin\Debug\PositivoNegativo.pdb
+C:\Users\manager\source\repos\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\manager\source\repos\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.exe
+C:\Users\manager\source\repos\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.pdb

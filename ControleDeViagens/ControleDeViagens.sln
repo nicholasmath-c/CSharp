@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeViagens", "paraladaca\ControleDeViagens.csproj", "{7AB90D5E-B0D4-40FC-8F1F-AC0086D22781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AB90D5E-B0D4-40FC-8F1F-AC0086D22781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB90D5E-B0D4-40FC-8F1F-AC0086D22781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB90D5E-B0D4-40FC-8F1F-AC0086D22781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB90D5E-B0D4-40FC-8F1F-AC0086D22781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A3D56E-3A87-4470-A60A-FAD8F4D73667}
+	EndGlobalSection
+EndGlobal

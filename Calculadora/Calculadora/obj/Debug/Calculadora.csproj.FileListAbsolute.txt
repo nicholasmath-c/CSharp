@@ -1,0 +1,5 @@
+c:\users\etecmorato\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\etecmorato\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\etecmorato\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

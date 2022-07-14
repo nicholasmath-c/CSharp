@@ -1,0 +1,14 @@
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\bin\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.exe
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\bin\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.deps.json
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\bin\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.runtimeconfig.json
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\bin\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.runtimeconfig.dev.json
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\bin\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.dll
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\bin\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.pdb
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.AssemblyInfo.cs
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.dll
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.pdb
+C:\Users\Etec\source\repos\ExemploHerançaEncapsulamento\ExemploHerançaEncapsulamento\obj\Debug\netcoreapp3.1\ExemploHerançaEncapsulamento.genruntimeconfig.cache

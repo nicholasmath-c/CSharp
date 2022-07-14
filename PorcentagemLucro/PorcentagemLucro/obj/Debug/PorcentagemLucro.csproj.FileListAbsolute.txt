@@ -1,0 +1,6 @@
+c:\users\etecmorato\documents\visual studio 2013\Projects\PorcentagemLucro\PorcentagemLucro\bin\Debug\PorcentagemLucro.exe.config
+c:\users\etecmorato\documents\visual studio 2013\Projects\PorcentagemLucro\PorcentagemLucro\bin\Debug\PorcentagemLucro.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\PorcentagemLucro\PorcentagemLucro\bin\Debug\PorcentagemLucro.pdb
+c:\users\etecmorato\documents\visual studio 2013\Projects\PorcentagemLucro\PorcentagemLucro\obj\Debug\PorcentagemLucro.csprojResolveAssemblyReference.cache
+c:\users\etecmorato\documents\visual studio 2013\Projects\PorcentagemLucro\PorcentagemLucro\obj\Debug\PorcentagemLucro.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\PorcentagemLucro\PorcentagemLucro\obj\Debug\PorcentagemLucro.pdb

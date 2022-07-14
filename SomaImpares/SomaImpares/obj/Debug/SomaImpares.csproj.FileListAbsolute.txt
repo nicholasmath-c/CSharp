@@ -1,0 +1,5 @@
+c:\users\etecmorato\documents\visual studio 2013\Projects\SomaImpares\SomaImpares\bin\Debug\SomaImpares.exe.config
+c:\users\etecmorato\documents\visual studio 2013\Projects\SomaImpares\SomaImpares\bin\Debug\SomaImpares.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\SomaImpares\SomaImpares\bin\Debug\SomaImpares.pdb
+c:\users\etecmorato\documents\visual studio 2013\Projects\SomaImpares\SomaImpares\obj\Debug\SomaImpares.exe
+c:\users\etecmorato\documents\visual studio 2013\Projects\SomaImpares\SomaImpares\obj\Debug\SomaImpares.pdb

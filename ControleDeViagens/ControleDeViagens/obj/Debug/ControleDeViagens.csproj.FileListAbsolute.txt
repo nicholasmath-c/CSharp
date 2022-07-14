@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\TRABALHOS E ATIVIDADES 2022\PW2\C# Códigos\paraladaca\paraladaca\bin\Debug\paraladaca.exe.config
+C:\Users\User\Desktop\TRABALHOS E ATIVIDADES 2022\PW2\C# Códigos\paraladaca\paraladaca\bin\Debug\paraladaca.exe
+C:\Users\User\Desktop\TRABALHOS E ATIVIDADES 2022\PW2\C# Códigos\paraladaca\paraladaca\bin\Debug\paraladaca.pdb
+C:\Users\User\Desktop\TRABALHOS E ATIVIDADES 2022\PW2\C# Códigos\paraladaca\paraladaca\obj\Debug\ControleDeViagens.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TRABALHOS E ATIVIDADES 2022\PW2\C# Códigos\paraladaca\paraladaca\obj\Debug\paraladaca.exe
+C:\Users\User\Desktop\TRABALHOS E ATIVIDADES 2022\PW2\C# Códigos\paraladaca\paraladaca\obj\Debug\paraladaca.pdb

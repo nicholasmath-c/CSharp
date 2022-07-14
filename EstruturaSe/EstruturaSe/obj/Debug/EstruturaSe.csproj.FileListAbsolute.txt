@@ -1,0 +1,7 @@
+C:\Users\manager\source\repos\EstruturaSe\EstruturaSe\bin\Debug\EstruturaSe.exe.config
+C:\Users\manager\source\repos\EstruturaSe\EstruturaSe\bin\Debug\EstruturaSe.exe
+C:\Users\manager\source\repos\EstruturaSe\EstruturaSe\bin\Debug\EstruturaSe.pdb
+C:\Users\manager\source\repos\EstruturaSe\EstruturaSe\obj\Debug\EstruturaSe.csprojAssemblyReference.cache
+C:\Users\manager\source\repos\EstruturaSe\EstruturaSe\obj\Debug\EstruturaSe.csproj.CoreCompileInputs.cache
+C:\Users\manager\source\repos\EstruturaSe\EstruturaSe\obj\Debug\EstruturaSe.exe
+C:\Users\manager\source\repos\EstruturaSe\EstruturaSe\obj\Debug\EstruturaSe.pdb
